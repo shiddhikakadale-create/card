@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Birthday Party Invention Card</title>
+<style>
+  .party-card {
+   width: 350px;
+   border: 2px solid #ff69b4
+     border-radius: 15px;
+   padding: 20px;
+   margin: 30px auto;
+   box-shadow: 0 4px 12px rgba(255,105,180,0.2);
+  background: linear-gradient(135deg, #ffe4e1 0%, #fffacd 100%);
+ font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
+ .party-title {
+ color: #ff1493;
+ font-size: 1.6em;
+ margin-bottom: 10px;
+  text-align: center;
+  }
+  .party-details {
+ font-size: 1em;
+ color: #333;
+   margin-bottom: 8px;
+  }
+ .party-description {
+  font-size: 1em;
+   color: #6a5acd;
+   margin-top: 15px;
+        text-align: center;
+ }
+  .party-image {
+ width: 100%;
+  border-radius: 10px;
+    margin-bottom: 12px;
+ }
+</style>
+ </head>
+  <body>
+  <div class="party-card">
+ <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=350&q=80"
+    alt="Party Invention" class="party-image">
+  <div class="party-title">Balloon Message Pop</div>
+   <div class="party-details"><strong>Invented By:</strong> Priya & Friends</div>
+  <div class="party-details"><strong>First Used:</strong> Rohan's 8th Birthday</div>
+  <div class="party-description">
+  Guests write birthday wishes on slips, insert them in balloons, and pop them for surprise messages during the party!
+  </div>
+    </div>
+  </body>
+</html>
