@@ -5,7 +5,7 @@
 <style>
   .party-card {
    width: 350px;
-   border: 2px solid #ff69b4
+   border: 2px solid #ff69b4;
      border-radius: 15px;
    padding: 20px;
    margin: 30px auto;
